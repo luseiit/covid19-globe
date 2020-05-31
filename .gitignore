@@ -1,0 +1,6 @@
+#git ignore
+
+Common
+Public
+node_modules
+
